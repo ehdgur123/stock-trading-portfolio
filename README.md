@@ -1,7 +1,7 @@
 # 🧾 StockTrading-Web (주식 웹 트레이딩 플랫폼)
 
 실시간 시세, 종목 검색, 트레이딩, 자산 관리, 정보 공유 기능을 제공하는 종합 주식 웹 트레이딩 서비스입니다.  
-[🔗 배포 링크](https://your-deployment-url.com)
+[🔗 배포 링크]()
 
 ---
 
@@ -10,43 +10,28 @@
 | 항목 | 내용 |
 | ---- | ---- |
 | 🧪 프로젝트명 | StockTrading-Web |
-| ⏰ 개발 기간 | 2025.07.01 ~ (진행 중) |
+| ⏰ 개발 기간 |  |
 | 👨‍💻 개발 인원 | 1명 (개인 프로젝트) |
-| 🧩 담당 역할 | 전체 기획, 설계, 개발, 배포 |
+| 🧩 담당 역할 |  |
 
 ---
 
 ## 🧰 기술 스택
 
 ### ✅ Backend
-- Java 17, Spring Boot 3
-- JPA (Hibernate), QueryDSL
-- Spring Security + JWT
-- Redis (캐싱, 세션)
-- Kafka (이벤트 기반 주문 처리)
-- MySQL
-- Spring REST Docs (API 문서화)
+
 
 ### ✅ Frontend
-- React.js (Vite + TypeScript)
-- Tailwind CSS
-- Chart.js / d3.js
-- WebSocket
+
 
 ### ✅ DevOps
-- Docker, Docker Compose
-- Nginx
-- GitHub Actions (CI/CD)
-- AWS EC2, S3, Route53
+
 
 ---
 
 ## 🧩 시스템 아키텍처 (구상도)
 
-![architecture](https://your-architecture-image-url.com)
 
-- 모놀리식 → 점진적 마이크로서비스 구조
-- 주문 시스템, 사용자 시스템, 종목 정보 시스템 분리 가능성 고려
 
 ---
 
@@ -102,8 +87,7 @@
 
 ## 🧪 API 명세서
 
-Swagger 또는 Spring REST Docs를 통해 문서화  
-👉 추후 링크 추가 예정
+
 
 ---
 
